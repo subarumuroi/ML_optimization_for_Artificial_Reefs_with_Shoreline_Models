@@ -1,5 +1,10 @@
 # ML optimization for Artificial Reefs with Shoreline Models
 
+This is the unofficial repository for the published work here:
+Muroi, S. K., Bertone, E., Cartwright, N., & Alvarez, F. (2025). Machine learning methods for predicting shoreline change from submerged breakwater simulations. Engineering Applications of Artificial Intelligence, 152, 110726.
+
+Kept in it's original form for posterity and reproducibility of Journal Article Results. Please cite original work if you use this code or concepts from the paper to help people find these methods for using machine learning and shoreline modelling as climate change affects design choices of coastal protection structures.
+
 Neural net and Gaussian Process Regressor methods for learning shoreline model outputs. 
 
 #Make sure to change folder paths and everything else will run as long as you've setup your environment 
